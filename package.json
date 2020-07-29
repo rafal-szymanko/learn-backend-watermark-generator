@@ -1,0 +1,11 @@
+{
+  "name": "learn-backend-watermark-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafal-szymanko/learn-backend-watermark-generator.git",
+  "author": "rafal-szymanko <61496255+rafal-szymanko@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
